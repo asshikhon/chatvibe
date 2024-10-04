@@ -86,6 +86,6 @@ return (
       </Sheet>
     </section>
   );
-};
+}
 
 export default MobileNav;
